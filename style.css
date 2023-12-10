@@ -16,3 +16,10 @@ nav {
     justify-content: space-between;
     padding: 45px 8% 0 8%;
 }
+
+.logo {
+    color: white;
+    font-size: 35px;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
