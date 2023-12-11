@@ -51,3 +51,7 @@ nav ul li a:hover {
     text-decoration: none;
     font-weight: bold;
 }
+
+.btn:hover {
+    border-radius: 20px;
+}
