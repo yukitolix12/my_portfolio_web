@@ -10,6 +10,10 @@
     background-color: #101010;
 }
 
+span {
+    color:lightseagreen;
+}
+
 nav {
     display: flex;
     align-items: center;
