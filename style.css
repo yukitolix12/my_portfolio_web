@@ -75,3 +75,9 @@ nav ul li a:hover {
     height: 720px;
     margin-top: -150px; */
 }
+
+h1 {
+    color: white;
+    margin: 20px 0 20px;
+    font-size: 75px;
+}
