@@ -92,3 +92,8 @@ h4 {
     letter-spacing: 2px;
     font-size: 20px;
 }
+
+.newslatter form {
+    width: 380px;
+    position: relative;
+}
