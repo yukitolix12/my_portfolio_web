@@ -65,7 +65,6 @@ nav ul li a:hover {
 .content .body {
     display: flex;
     justify-content: space-evenly;
-    align-items: center;
     padding-right: 50px;
     padding-left: 270px;
 }
