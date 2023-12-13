@@ -114,4 +114,7 @@ h4 {
     padding: 10px 30px;
     background-color: lightseagreen;
     border-radius: 30px;
+    color: white;
+    cursor: pointer;
+    box-shadow: 1px 1px 10px black;
 }
