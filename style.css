@@ -81,3 +81,9 @@ h1 {
     margin: 20px 0 20px;
     font-size: 75px;
 }
+
+h3 {
+    color: white;
+    font-size: 25px;
+    margin-bottom: 50px;
+}
