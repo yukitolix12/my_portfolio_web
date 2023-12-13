@@ -106,3 +106,13 @@ h4 {
     border: 2px solid lightseagreen;
     border-radius: 30px;
 }
+
+.newslatter form input:last-child {
+    position: absolute;
+    border: none;
+    top: 5px;
+    right: 6px;
+    padding: 10px 30px;
+    background-color: lightseagreen;
+    border-radius: 30px;
+}
