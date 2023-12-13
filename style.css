@@ -69,3 +69,9 @@ nav ul li a:hover {
     padding-right: 50px;
     padding-left: 270px;
 }
+
+.content .body img {
+    width: 1000px;
+    height: 720px;
+    margin-top: -150px;
+}
