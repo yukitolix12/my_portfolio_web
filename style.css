@@ -96,4 +96,13 @@ h4 {
 .newslatter form {
     width: 380px;
     position: relative;
+    background-color: red;
+}
+
+.newslatter form input:first-child {
+    width: 100%;
+    padding: 15px 130px 15px 15px;
+    outline: none;
+    border: 2px solid lightseagreen;
+    border-radius: 30px;
 }
