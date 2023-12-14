@@ -125,3 +125,7 @@ h4 {
     padding: 100px 0;
     background-color: #191919;
 }
+
+.about img {
+    width: 430px;
+}
