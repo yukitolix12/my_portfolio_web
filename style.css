@@ -154,3 +154,11 @@ h4 {
     font-size: 22px;
     margin-bottom: 25px;
 }
+
+.about-text p {
+    color: white;
+    letter-spacing: 1px;
+    line-height: 28px;
+    margin-bottom: 45px;
+    font-size: 18px;
+}
