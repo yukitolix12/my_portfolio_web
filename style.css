@@ -175,4 +175,5 @@ button {
 
 button:hover {
     background-color: transparent;
+    cursor: pointer;
 }
