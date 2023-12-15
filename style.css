@@ -162,3 +162,11 @@ h4 {
     margin-bottom: 45px;
     font-size: 18px;
 }
+
+button {
+    background-color: lightseagreen;
+    padding: 13px 30px;
+    color: white;
+    font-weight: bold;
+    border-radius: 30px;
+}
