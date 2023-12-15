@@ -169,11 +169,11 @@ button {
     color: white;
     font-weight: bold;
     border-radius: 30px;
-    border: 2px solid green;
     transition: all 0.3s;
 }
 
 button:hover {
     background-color: transparent;
+    border: 2px solid green;
     cursor: pointer;
 }
