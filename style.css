@@ -183,3 +183,7 @@ button:hover {
     width: 100%;
     padding: 100px 0;
 }
+
+.title h2 {
+    color: white;
+}
