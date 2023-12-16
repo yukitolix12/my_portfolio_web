@@ -197,3 +197,9 @@ button:hover {
     justify-content: center;
     min-height: 400px;
 }
+
+.card {
+    height: 390px;
+    width: 365px;
+    background-color: #191919;
+}
