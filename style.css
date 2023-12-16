@@ -208,3 +208,9 @@ button:hover {
     overflow: hidden;
     text-align: center;
 }
+
+.card i {
+    color: lightseagreen;
+    font-size: 50px;
+    margin: 25px 0;
+}
