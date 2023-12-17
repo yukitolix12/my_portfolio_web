@@ -249,4 +249,7 @@ h5 {
     height: 290px;
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #191919;
 }
