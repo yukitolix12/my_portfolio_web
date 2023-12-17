@@ -301,6 +301,10 @@ footer p:nth-child(2) {
     text-align: center;
 }
 
+.social {
+    display: flex;
+}
+
 .social a {
     width: 45px;
     height: 45px;
