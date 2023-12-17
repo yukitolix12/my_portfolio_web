@@ -253,3 +253,10 @@ h5 {
     align-items: center;
     background-color: #191919;
 }
+
+.contact p {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
