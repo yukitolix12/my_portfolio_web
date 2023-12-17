@@ -271,7 +271,7 @@ h5 {
     transition: all 0.3s;
 }
 
-.card .button:hover {
+.contact .contact-button:hover {
     background-color: transparent;
     border: 2px solid green;
     cursor: pointer;
