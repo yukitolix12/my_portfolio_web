@@ -233,6 +233,7 @@ h5 {
     padding: 13px 30px;
     color: white;
     font-weight: bold;
+   
     border-radius: 30px;
     transition: all 0.3s;
 }
@@ -241,4 +242,11 @@ h5 {
     background-color: transparent;
     border: 2px solid green;
     cursor: pointer;
+}
+
+.contact {
+    width: 100%;
+    height: 290px;
+    display: flex;
+    flex-direction: column;
 }
