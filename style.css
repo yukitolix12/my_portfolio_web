@@ -237,7 +237,7 @@ h5 {
     transition: all 0.3s;
 }
 
-button:hover {
+.card .button:hover {
     background-color: transparent;
     border: 2px solid green;
     cursor: pointer;
