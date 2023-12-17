@@ -317,4 +317,9 @@ footer p:nth-child(2) {
     text-decoration: none;
     margin: 22px 10px;
     color: white;
+    transition: all 0.3s;
+}
+
+.social a:hover{
+    transform: scale(1.3);
 }
